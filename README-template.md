@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Site-Fm]()
-- Live Site URL: [Site-Url]()
+- Solution URL: [Site-Fm](https://www.frontendmentor.io/solutions/stats-preview-card-with-flexbox-EipDuq317o)
+- Live Site URL: [Site-Url](https://statsprevcardcomponentfm.netlify.app/)
 
 ## My process
 
